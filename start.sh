@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# dev.sh — Start everything locally (no ngrok, no tunnel)
-# Usage: ./dev.sh
+# start.sh — Start everything locally (MongoDB, .NET backend, Next.js frontend)
+# Usage: ./start.sh
 # Stop:  Ctrl+C
 
 set -e
